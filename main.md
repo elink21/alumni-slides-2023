@@ -1,5 +1,5 @@
 ---
-theme: gaia
+theme: uncover
 paginate: true
 class: 
     - invert
@@ -7,43 +7,37 @@ class:
 marp: true
 ---
 
+##  Experiencia laboral como SRE@Wizeline :computer:
 
-# <!--fit-->**Entrada al campo laboral**
-
+![bg right](https://kstatic.googleusercontent.com/files/4677078e056143d78962e1020da6927a73225d2f11346b49ca3cd65818506d1dc39f123a92bafbe6972a0f5f3e6f626a73e538fb60123c25ccee80137a1ac988)
 
 ---
 
 ## Desembarcando en el mundo laboral :ship:
-##### Iniciando la travesia
+##### Iniciando la travesia, mi experiencia
+
+* Inicio de contacto
+* Proceso de contratacion
+* Programa de training
+* Asignacion de proyecto
+
 
 
 ---
 
 
-## Forjando conocimiento :green_book: :pen:
-##### Universidad y herramientas
+## Forjando un background solido :green_book: :pen:
 
 ---
 
 
-## Travesia de adaptacion :mag_right:
-##### Entre la universidad y el mundo laboral
+## Tejiendo redes :globe_with_meridians:
+
+
 
 ---
 
 ## :mountain: Explorando los horizontes 
-##### Opciones para ingenieros en computacion
-
----
-
-## Tejiendo redes :globe_with_meridians:
-##### El poder del networking
-
-
----
-
-## :rewind: Mirada retroactiva 
-##### Aprendizajes de mi estancia
 
 ---
 
@@ -52,8 +46,13 @@ marp: true
 
 ---
 
-## El arte del equilibrio :house: :office:
-##### Vida personal y profesional
+## Travesia de adaptacion :mag_right:
+
+
+---
+
+
+## Vida personal y profesional :house: :office:
 
 
 ---
